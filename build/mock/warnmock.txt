@@ -1,0 +1,127 @@
+missing module named 'win32com.gen_py' - imported by win32com, c:\users\echp\documents\speech\env\lib\site-packages\PyInstaller\loader\rthooks\pyi_rth_win32comgenpy.py
+missing module named pyimod03_importers - imported by PyInstaller.loader.pyimod02_archive, c:\users\echp\documents\speech\env\lib\site-packages\PyInstaller\loader\rthooks\pyi_rth_pkgres.py
+missing module named __builtin__ - imported by dill.dill, future.builtins.misc, future.utils, pkg_resources._vendor.pyparsing
+missing module named ordereddict - imported by dill, dill._objects, google.protobuf.json_format, pkg_resources._vendor.pyparsing
+missing module named 'pkg_resources.extern.pyparsing' - imported by pkg_resources._vendor.packaging.markers, pkg_resources._vendor.packaging.requirements
+missing module named 'com.sun' - imported by pkg_resources._vendor.appdirs
+missing module named com - imported by pkg_resources._vendor.appdirs
+missing module named _scproxy - imported by urllib.request, future.backports.urllib.request
+missing module named 'macholib.compat' - imported by macholib.MachO
+missing module named _pkgutil - imported by PyInstaller.lib.modulegraph.modulegraph
+missing module named xdis - imported by PyInstaller.lib.modulegraph._compat
+missing module named dis3 - imported by PyInstaller.lib.modulegraph._compat
+missing module named urllib.pathname2url - imported by urllib, playsound, PyInstaller.lib.modulegraph._compat
+missing module named PyQt5 - imported by PyInstaller.utils.hooks.qt
+missing module named pyimod00_crypto_key - imported by PyInstaller.loader.pyimod02_archive
+missing module named thread - imported by urllib3.packages.ordered_dict, PyInstaller.loader.pyimod02_archive, dill.dill, future.backports.misc
+missing module named Crypto - imported by PyInstaller.building.makespec
+missing module named 'win32ctypes.pywin32' - imported by PyInstaller.compat
+missing module named win32ctypes - imported by PyInstaller.compat
+missing module named UserDict - imported by PyInstaller.compat, dill.dill
+missing module named multiprocessing.SimpleQueue - imported by multiprocessing, concurrent.futures.process
+missing module named multiprocessing.get_start_method - imported by multiprocessing, multiprocessing.spawn
+missing module named multiprocessing.set_start_method - imported by multiprocessing, multiprocessing.spawn
+missing module named multiprocessing.get_context - imported by multiprocessing, multiprocessing.pool, multiprocessing.managers, multiprocessing.sharedctypes
+missing module named multiprocessing.TimeoutError - imported by multiprocessing, multiprocessing.pool
+missing module named multiprocessing.AuthenticationError - imported by multiprocessing, multiprocessing.connection
+missing module named multiprocessing.BufferTooShort - imported by multiprocessing, multiprocessing.connection
+missing module named pkg_resources.extern.packaging - imported by pkg_resources.extern, pkg_resources
+missing module named pkg_resources.extern.appdirs - imported by pkg_resources.extern, pkg_resources
+missing module named 'pkg_resources.extern.six.moves' - imported by pkg_resources, pkg_resources._vendor.packaging.requirements
+missing module named pkg_resources.extern.six - imported by pkg_resources.extern, pkg_resources
+missing module named 'multiprocessing.forking' - imported by c:\users\echp\documents\speech\env\lib\site-packages\PyInstaller\loader\rthooks\pyi_rth_multiprocessing.py
+missing module named resource - imported by posix, test.support, C:\Users\Echp\Documents\speech\mock.py
+missing module named posix - imported by os, C:\Users\Echp\Documents\speech\mock.py
+missing module named _posixsubprocess - imported by subprocess, multiprocessing.util, C:\Users\Echp\Documents\speech\mock.py
+missing module named org - imported by pickle, C:\Users\Echp\Documents\speech\mock.py
+missing module named 'System.Windows' - imported by pyreadline.clipboard.ironpython_clipboard, C:\Users\Echp\Documents\speech\mock.py
+missing module named clr - imported by pyreadline.console.ironpython_console, pyreadline.clipboard.ironpython_clipboard, C:\Users\Echp\Documents\speech\mock.py
+missing module named IronPythonConsole - imported by pyreadline.console.ironpython_console, C:\Users\Echp\Documents\speech\mock.py
+missing module named StringIO - imported by pyreadline.py3k_compat, urllib3.packages.six, requests.compat, six, PyInstaller.lib.modulegraph._compat, PyInstaller.lib.modulegraph.zipio, dill.dill, dill.temp, dill._objects, C:\Users\Echp\Documents\speech\mock.py, pkg_resources._vendor.six
+missing module named System - imported by pyreadline.console.ironpython_console, pyreadline.keysyms.ironpython_keysyms, pyreadline.rlmain, C:\Users\Echp\Documents\speech\mock.py
+missing module named sets - imported by pyreadline.keysyms.common, dill._objects, C:\Users\Echp\Documents\speech\mock.py
+missing module named startup - imported by pyreadline.keysyms.common, pyreadline.keysyms.keysyms, C:\Users\Echp\Documents\speech\mock.py
+missing module named console - imported by pyreadline.console.ansi, C:\Users\Echp\Documents\speech\mock.py
+excluded module named _frozen_importlib - imported by importlib, importlib.abc, PyInstaller.loader.pyimod02_archive, C:\Users\Echp\Documents\speech\mock.py
+missing module named _frozen_importlib_external - imported by importlib._bootstrap, importlib, importlib.abc, C:\Users\Echp\Documents\speech\mock.py
+missing module named _winreg - imported by platform, requests.utils, C:\Users\Echp\Documents\speech\mock.py, pkg_resources._vendor.appdirs
+missing module named java - imported by platform, C:\Users\Echp\Documents\speech\mock.py
+missing module named 'java.lang' - imported by platform, xml.sax._exceptions, C:\Users\Echp\Documents\speech\mock.py
+missing module named vms_lib - imported by platform, C:\Users\Echp\Documents\speech\mock.py
+missing module named termios - imported by tty, getpass, C:\Users\Echp\Documents\speech\mock.py
+missing module named urllib.unquote - imported by urllib, requests.compat
+missing module named urllib.urlencode - imported by urllib, requests.compat, goslate
+missing module named urllib.quote_plus - imported by urllib, requests.compat, goslate
+missing module named urllib.quote - imported by urllib, requests.compat
+missing module named urllib.proxy_bypass - imported by urllib, requests.compat
+missing module named urllib.proxy_bypass_environment - imported by urllib, requests.compat
+missing module named urllib.getproxies_environment - imported by urllib, requests.compat
+missing module named urllib.getproxies - imported by urllib, requests.compat
+missing module named urllib.unquote_plus - imported by urllib, requests.compat, goslate
+missing module named grp - imported by shutil, tarfile, C:\Users\Echp\Documents\speech\mock.py
+missing module named 'org.python' - imported by copy, xml.sax, C:\Users\Echp\Documents\speech\mock.py
+missing module named pwd - imported by posixpath, shutil, tarfile, http.server, webbrowser, netrc, getpass, distutils.util, C:\Users\Echp\Documents\speech\mock.py
+missing module named _dummy_threading - imported by dummy_threading, C:\Users\Echp\Documents\speech\mock.py
+runtime module named six.moves - imported by gtts.tts, google.auth.transport, google.auth.transport._http_client, google.auth._helpers, google.oauth2._client, google.auth.jwt, google.auth.compute_engine._metadata, 'six.moves.urllib', google.cloud._helpers, google.api_core.exceptions, C:\Users\Echp\Documents\speech\mock.py
+missing module named 'six.moves.urllib' - imported by 'six.moves.urllib'
+missing module named 'gi.repository' - imported by playsound
+missing module named gi - imported by playsound
+missing module named Foundation - imported by playsound
+missing module named AppKit - imported by playsound
+missing module named 'requests.packages.urllib3' - imported by gtts.tts
+missing module named backports - imported by urllib3.packages.ssl_match_hostname
+missing module named _abcoll - imported by urllib3.packages.ordered_dict
+missing module named dummy_thread - imported by urllib3.packages.ordered_dict, future.backports.misc
+missing module named Cookie - imported by requests.compat
+missing module named cookielib - imported by requests.compat
+missing module named urllib2 - imported by requests.compat, goslate
+missing module named urlparse - imported by requests.compat, goslate
+missing module named simplejson - imported by requests.compat
+missing module named Queue - imported by urllib3.connectionpool, dill._objects
+missing module named "'urllib3.packages.six.moves.urllib'.parse" - imported by urllib3.request, urllib3.poolmanager
+runtime module named urllib3.packages.six.moves - imported by http.client, urllib3.connectionpool, urllib3.util.response, 'urllib3.packages.six.moves.urllib', urllib3.response
+missing module named socks - imported by urllib3.contrib.socks
+missing module named 'OpenSSL.crypto' - imported by urllib3.contrib.pyopenssl
+missing module named 'cryptography.x509' - imported by urllib3.contrib.pyopenssl
+missing module named 'cryptography.hazmat' - imported by urllib3.contrib.pyopenssl
+missing module named cryptography - imported by urllib3.contrib.pyopenssl
+missing module named OpenSSL - imported by urllib3.contrib.pyopenssl
+missing module named md5 - imported by ply.yacc
+missing module named cPickle - imported by ply.yacc
+missing module named cStringIO - imported by dill.dill, dill._objects, cPickle
+missing module named copy_reg - imported by cStringIO, cPickle
+missing module named _dbm - imported by dbm.ndbm
+missing module named gdbm - imported by anydbm, future.moves.dbm.gnu
+missing module named _gdbm - imported by dbm.gnu
+missing module named dumbdbm - imported by anydbm, future.moves.dbm.dumb
+missing module named anydbm - imported by dill._objects, future.moves.dbm
+missing module named dbhash - imported by anydbm
+missing module named whichdb - imported by anydbm, future.moves.dbm
+missing module named future_builtins - imported by future.builtins.misc
+missing module named google.protobuf.pyext._message - imported by google.protobuf.pyext, google.protobuf.internal.api_implementation, google.protobuf.descriptor, google.protobuf.pyext.cpp_message
+missing module named google.protobuf.enable_deterministic_proto_serialization - imported by google.protobuf, google.protobuf.internal.api_implementation
+missing module named google.protobuf.internal.use_pure_python - imported by google.protobuf.internal, google.protobuf.internal.api_implementation
+missing module named google.protobuf._use_fast_cpp_protos - imported by google.protobuf, google.protobuf.internal.api_implementation
+missing module named google.protobuf.internal._api_implementation - imported by google.protobuf.internal, google.protobuf.internal.api_implementation
+missing module named google_auth_httplib2 - imported by google.gax._grpc_google_auth
+missing module named httplib2 - imported by google.gax._grpc_google_auth
+missing module named 'google.appengine' - imported by google.auth.app_engine
+missing module named psyco - imported by rsa.transform
+missing module named grpc_reflection - imported by grpc
+missing module named grpc_health - imported by grpc
+missing module named grpc_tools - imported by grpc
+missing module named numpy - imported by dill.dill, dill._objects
+missing module named number - imported by dill._objects
+missing module named mutex - imported by dill._objects
+missing module named diff - imported by dill.dill
+missing module named dill.diff - imported by dill, dill.dill
+missing module named "'six.moves.urllib'.parse" - imported by google.cloud._http
+missing module named pytz - imported by google.cloud._helpers
+missing module named core - imported by PyDictionary
+missing module named utils - imported by PyDictionary.core
+missing module named iconv_codec - imported by bs4.dammit
+missing module named cchardet - imported by bs4.dammit
+missing module named lxml - imported by bs4.builder._lxml
+missing module named 'html5lib.treebuilders' - imported by bs4.builder._html5lib
+missing module named 'html5lib.constants' - imported by bs4.builder._html5lib
+missing module named html5lib - imported by bs4.builder._html5lib
